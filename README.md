@@ -30,4 +30,4 @@ To run tests:
 
 ![crunchloop](https://crunchloop.io/logo-blue.png)
 
-We strongly believe in giving back :rocket:. Let's work together [`Get in touch`](https://crunchloop.io/contact).
+We strongly believe in giving back :rocket:. Let's work together [`Get in touch`](https://crunchloop.io/#contact).
