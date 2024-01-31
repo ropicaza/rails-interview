@@ -2,7 +2,6 @@ module Api
   class TodoItemsController < ApplicationController
     protect_from_forgery with: :null_session
 
-    # GET /api/todolists/id/todoitems
     def index
       @todo_items = TodoItem.where(todo_list_id: params[:todo_list_id])
 
